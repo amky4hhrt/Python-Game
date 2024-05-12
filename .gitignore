@@ -2,3 +2,5 @@
 venv/
 test.py
 .idea
+*.xml
+*.iml
